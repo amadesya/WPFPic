@@ -23,11 +23,9 @@
 
 ### Инструкция по сборке
 1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/amadesya/WPFPic
-
-``
-
+```bash
+git clone https://github.com/amadesya/WPFPic
+```
 
 2. Выполните сборку и запуск:
 ```bash
